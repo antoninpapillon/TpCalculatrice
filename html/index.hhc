@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Fichiers"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Liste des fichiers"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="calculatrice(1).c"><param name="Local" value="calculatrice_071_08_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addi"><param name="Local" value="calculatrice_071_08_8c.html#a19e7a904e2f59273b398a6ca65d941aa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addi"><param name="Local" value="calculatrice_071_08_8c.html#aed1d651b23d8bd061bb0fb139d5bcfd1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addi"><param name="Local" value="calculatrice_071_08_8c.html#a63611928e6277b17841f3e065c754338"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addi"><param name="Local" value="calculatrice_071_08_8c.html#ac8e4ab9b3d279ac5216bef4a8da4a084"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="divi"><param name="Local" value="calculatrice_071_08_8c.html#a5d90ac1fb68d1c8dd307ce1abae47128"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="divi"><param name="Local" value="calculatrice_071_08_8c.html#ac1cf6168445255183a8a5d6b8bcce007"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="divi"><param name="Local" value="calculatrice_071_08_8c.html#a5ebbcd49c65469f1fa7d45717541c9b0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="divi"><param name="Local" value="calculatrice_071_08_8c.html#a826a97b5dadbf8e55023e9d1b6e5363b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="main"><param name="Local" value="calculatrice_071_08_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="modu"><param name="Local" value="calculatrice_071_08_8c.html#a15913fc9bb0e9534293e9070e13d6701"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="modu"><param name="Local" value="calculatrice_071_08_8c.html#af713e0ae84e3b7a7f5bc9aad437075ab"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mult"><param name="Local" value="calculatrice_071_08_8c.html#ae13bd1d81fa7839780a86d2454828636"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mult"><param name="Local" value="calculatrice_071_08_8c.html#a5f019806017c801c5f89a4cb81364dc4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mult"><param name="Local" value="calculatrice_071_08_8c.html#aff702508f06058cc8bfba1076e3f8596"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mult"><param name="Local" value="calculatrice_071_08_8c.html#adee4053fc514cfebfc78eb6b374e6a29"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sous"><param name="Local" value="calculatrice_071_08_8c.html#abbc112930ecdd2d4a074e5223d02c0d2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sous"><param name="Local" value="calculatrice_071_08_8c.html#a4da95975bcf25efb124a874bc2c261cd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sous"><param name="Local" value="calculatrice_071_08_8c.html#a43b4702f5f9f5311256bbb57d9f8bcea"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sous"><param name="Local" value="calculatrice_071_08_8c.html#a71cb9f1b9fe6a1ceee4dd536bc5f10f2"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Membres de fichier"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Tout"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Fonctions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
